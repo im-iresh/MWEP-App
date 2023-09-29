@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148850483572",
+    "project_id": "mwep-chat",
+    "storage_bucket": "mwep-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148850483572:android:9838777e6fb6b973038c21",
+        "android_client_info": {
+          "package_name": "com.iresh.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQzhYLo2cikCYKZ5om9QgIlh4eqEcEbsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
